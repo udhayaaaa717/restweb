@@ -187,6 +187,8 @@ Published the website in the given URL.  https://acrologic-deedee-inerrably.ngro
 
 <img width="1454" height="763" alt="Screenshot 2025-10-05 at 9 27 41 PM" src="https://github.com/user-attachments/assets/3d3a42f1-efac-4545-b69f-957c09a76e1a" />
 
+<img width="1465" height="742" alt="Screenshot 2025-10-05 at 10 22 36 PM" src="https://github.com/user-attachments/assets/af09119e-5fae-4ca6-bc69-38c41ba40409" />
+
 <img width="1451" height="758" alt="Screenshot 2025-10-05 at 9 27 59 PM" src="https://github.com/user-attachments/assets/78239c75-5411-4c66-98ad-9de82af2ea13" />
 
 <img width="615" height="525" alt="Screenshot 2025-10-05 at 9 28 42 PM" src="https://github.com/user-attachments/assets/bbb8d51b-c363-44fc-bb36-9b3de9511603" />
